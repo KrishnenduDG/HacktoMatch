@@ -21,10 +21,6 @@ Whether you’re a seasoned developer or a first-time contributor, HacktoMatch h
 
 This is the frontend for the HacktoMatch project, built with React and Vite.
 
-> **Note:** The agent implementation and workflow details are documented in [AGENT.md](./AGENT.md).
-
-This is the frontend for the HacktoMatch project, built with React and Vite.
-
 ## Features
 - Simple UI to input a GitHub username.
 - Calls a remote agent API to process the username and returns the result.
