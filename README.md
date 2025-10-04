@@ -1,5 +1,7 @@
 # HacktoMatch Frontend
 
+> **Note:** The agent implementation and workflow details are documented in [AGENT.md](./AGENT.md).
+
 This is the frontend for the HacktoMatch project, built with React and Vite.
 
 ## Features
