@@ -65,4 +65,4 @@ Do not output extra commentary outside of JSON.
 
 Below is a sample output screenshot from the agent playground:
 
-![Agent Output Screenshot](public/agent.jpeg)
+![Agent Output Screenshot](frontend/public/agent.jpeg)
