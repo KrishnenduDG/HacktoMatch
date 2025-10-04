@@ -80,4 +80,6 @@ npm run lint
 MIT
 
 ## Contributors
-[**Aditya Verma**](https://github.com/AdityaVerma-1708) and [**Kritika Taank**](https://github.com/kritikataank)
+- [Aditya Verma](https://github.com/AdityaVerma-1708)
+- [Kritika Taank](https://github.com/kritikataank)
+- [Krishnendu Dasgupta](https://github.com/KrishnenduDG)
