@@ -1,4 +1,25 @@
-# HacktoMatch Frontend
+# HacktoMatch
+
+## 🚀 What is HacktoMatch?
+
+HacktoMatch is your personal open-source matchmaker for Hacktoberfest! 🎉
+
+Powered by AI and leveraging the Digital Ocean Gradient AI platform, HacktoMatch analyzes your GitHub profile—skills, languages, stars, and activity—and matches you with the best Hacktoberfest repositories to contribute to. No more endless searching or uncertainty—just instant, personalized recommendations to help you make an impact in the open-source world.
+
+### ✨ Why is HacktoMatch Useful?
+
+- 🔍 **Personalized Recommendations:** Get matched with repositories that fit your skills and experience, so your contributions matter.
+- ⏱️ **Saves Time:** Skip the manual search—HacktoMatch finds the best projects for you in seconds.
+- 🆕 **Beginner-Friendly:** New to open source? Get suggestions for beginner-friendly repos to kickstart your journey.
+- 📋 **Transparent Matching:** Every recommendation includes the repo name, main language, direct GitHub link, and a short reason why it’s perfect for you.
+- 🗂️ **Up-to-Date Knowledge Base:** The agent uses a live database of all Hacktoberfest-tagged repositories, so you always get current and relevant suggestions.
+- 🤖 **Powered by Digital Ocean Gradient AI:** The agent is built and hosted using Digital Ocean's Gradient AI platform, ensuring robust, scalable, and intelligent matchmaking.
+
+Whether you’re a seasoned developer or a first-time contributor, HacktoMatch helps you maximize your Hacktoberfest experience by connecting you with projects where your skills will shine! 🌟
+
+> **Note:** The agent implementation and workflow details are documented in [AGENT.md](./AGENT.md).
+
+This is the frontend for the HacktoMatch project, built with React and Vite.
 
 > **Note:** The agent implementation and workflow details are documented in [AGENT.md](./AGENT.md).
 
