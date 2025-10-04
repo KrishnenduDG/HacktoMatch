@@ -78,3 +78,6 @@ npm run lint
 
 ## License
 MIT
+
+## Contributors
+Aditya Verma https://github.com/AdityaVerma-1708
